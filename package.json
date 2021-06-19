@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Leandro-Angeli/sass-npm-2/issues"
   },
-  "homepage": "https://github.com/Leandro-Angeli/sass-npm-2#readme"
+  "homepage": "https://github.com/Leandro-Angeli/sass-npm-2#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.0"
+  }
 }
