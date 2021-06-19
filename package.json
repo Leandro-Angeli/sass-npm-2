@@ -1,0 +1,19 @@
+{
+  "name": "sass-npm",
+  "version": "1.0.0",
+  "description": "probando sass con npm 2 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leandro-Angeli/sass-npm-2.git"
+  },
+  "author": "Leandro Angeli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leandro-Angeli/sass-npm-2/issues"
+  },
+  "homepage": "https://github.com/Leandro-Angeli/sass-npm-2#readme"
+}
