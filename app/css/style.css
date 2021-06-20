@@ -1,1 +1,8 @@
-*{font-family:system-ui}body{background-color:goldenrod}
+* {
+  font-family: system-ui; }
+
+body {
+  background-color: goldenrod;
+  color: azure; }
+
+/*# sourceMappingURL=style.css.map */
